@@ -1,6 +1,3 @@
-| YARA EL-SAIDI | ALEXANDRE LE | SHERINE BAYA KOCHKAR |YASSIN BGHIEL |
-| ------------- | -------------| --------------------|---------------|
-
 # C-moon
 Nom du groupe : ABBY
 
