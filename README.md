@@ -1,8 +1,3 @@
-# C-moon
-Nom du groupe : ABBY
-
-Referent : Alexandre Meyer
-
 ## La description du projet :
 * Ce jeu est codé en c# et generé en utilisant UNITY 
 * C'est un jeu de découverte avec de l'horreur et du combat.
