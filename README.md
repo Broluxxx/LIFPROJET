@@ -24,7 +24,7 @@ Referent : Alexandre Meyer
 
 Vouz pouvez trouver l'executable du jeu dans le répertoir ./Builds/C-MOON
 
-## Oranisation des archives :
+## Organisation des archives :
 
 | repertoire | contient les fichiers qui gèrent |
 | -----------|----------|
